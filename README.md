@@ -6,10 +6,10 @@ This project was made by Lax1Dude & is the real minecraft in your browser.
 Click on the github file and then click open raw, next right-click & click save-as or (crtrl + s) and then save & open file in downloaded location.
 
 # Eaglercraft Links
-Eaglercraft Offline 1.5.2  
+Eaglercraft Offline 1.5.2 English US Language  
 https://oncoursemail.github.io/eaglercraft/1.5.2.html
 
-Eaglercraft Offline 1.8 English US  
+Eaglercraft Offline 1.8 English US Language  
 https://oncoursemail.github.io/eaglercraft/1.8.html  
 
 Eaglercraft Offline 1.8 International Languages  
