@@ -15,5 +15,5 @@ https://oncoursemail.github.io/eaglercraft/1.8.html
 Eaglercraft Offline 1.8 International Languages  
 https://oncoursemail.github.io/eaglercraft/1.8_international.html
 # Links Blocked? | Need A Server To Play? | Game Is laggy?
-I made a google doc of every eaglercraft server & client als some Helpful Info.
+I made a google doc of every eaglercraft server & client also some Helpful Info.
 https://docs.google.com/document/d/1PhUJSb0ojMyhv1Fs8bmVqwANBkySOgdyfRinJto3xnE/edit?usp=sharing
