@@ -8,7 +8,8 @@ Click on the github file and then click open raw, next right-click & click save-
 # Eaglercraft Links
 Eaglercraft Offline 1.5.2  
 https://oncoursemail.github.io/eaglercraft/1.5.2.html  
-Eaglercraft Offline 1.8 English US  
+  
+Eaglercraft Offline 1.8 English US
 https://oncoursemail.github.io/eaglercraft/1.8.html  
 Eaglercraft Offline 1.8 International Languages  
 https://oncoursemail.github.io/eaglercraft/1.8_international.html
