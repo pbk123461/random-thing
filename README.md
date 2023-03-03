@@ -12,6 +12,9 @@ https://oncoursemail.github.io/eaglercraft/1.5.2.html
 Eaglercraft Offline 1.8 English US Language  
 https://oncoursemail.github.io/eaglercraft/1.8.html  
 
+Eaglercraft Offline 1.3 English US Language.
+Adding in a bit.
+
 Eaglercraft Offline 1.8 International Languages  
 https://oncoursemail.github.io/eaglercraft/1.8_international.html
 # Links Blocked? | Need A Server To Play? | Game Is laggy?
